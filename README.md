@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SQL Practice Project (MySQL Workbench)
 
 ## About
@@ -18,3 +19,6 @@ This project contains SQL queries practiced using MySQL Workbench.
 - SELECT queries
 - WHERE, ORDER BY
 - Aggregations (COUNT, SUM, AVG)
+=======
+# SQL
+>>>>>>> 467e71121b974b98973d50f9935a2c986ce7c74c
